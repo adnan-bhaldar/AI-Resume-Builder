@@ -58,7 +58,11 @@ ResumeDott is a modern web application designed to help users create professiona
 
 ## 📸 Screenshots
 
-*Add screenshots of your app here (recommended for better presentation)*
+<!-- *Add screenshots of your app here (recommended for better presentation)* -->
+
+<img width="1898" height="908" alt="Image" src="https://github.com/user-attachments/assets/517f348e-023a-4667-bef5-6f051c548760" />
+<!-- <br/> -->
+<img width="1919" height="905" alt="Image" src="https://github.com/user-attachments/assets/2990eabd-ef34-46f6-853b-c1859670f869" />
 
 ---
 
